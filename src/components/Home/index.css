@@ -1,0 +1,20 @@
+.videos-list-container {
+  display: flex;
+  align-items: flex-start;
+}
+
+.video-container-home {
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+  height: 90vh;
+  width: 80vw;
+}
+
+.home-bg-dark {
+  background-color: #0f0f0f;
+}
+
+.home-bg-light {
+  background-color: #c4bfbff0;
+}

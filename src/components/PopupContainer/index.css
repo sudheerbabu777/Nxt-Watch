@@ -1,0 +1,57 @@
+.logout-button {
+  background-color: transparent;
+  border: 1.4px solid #3b82f6;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 400;
+  color: #3b82f6;
+  outline: none;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 4px;
+  padding-top: 4px;
+  border-radius: 4px;
+  margin-left: 20px;
+}
+
+.popup-content {
+  background-color: #1e293b;
+  padding: 30px;
+  border-radius: 8px;
+}
+
+.buttons {
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 500;
+  outline: none;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  border-radius: 4px;
+  margin-left: 20px;
+}
+
+.color {
+  background-color: transparent;
+  border: 1.4px solid #ffffff;
+  color: #ffffff;
+}
+
+.logout {
+  background-color: #3b82f6;
+  color: #ffffff;
+}
+
+.warning {
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 500;
+  color: #ffffff;
+}
+
+.popup-button {
+  display: flex;
+  align-items: center;
+}

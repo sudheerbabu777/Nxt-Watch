@@ -1,0 +1,18 @@
+.not-found-image {
+  width: 300px;
+  height: 400px;
+}
+
+.not-title {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 34px;
+  color: #000000;
+}
+
+.not-message {
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}

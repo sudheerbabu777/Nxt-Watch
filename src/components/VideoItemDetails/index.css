@@ -1,0 +1,111 @@
+.video-item-details-container {
+  padding-top: 40px;
+  padding-left: 30px;
+
+  height: 90vh;
+  width: 80vw;
+  overflow-y: auto;
+}
+
+.video-player {
+  width: 75vw;
+  height: 65vh;
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+}
+
+.like-dislike-container {
+  display: flex;
+  align-items: center;
+}
+
+.view-container {
+  display: flex;
+  align-items: center;
+}
+
+.experience-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-right: 12px;
+}
+
+.description-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+.video-item-title {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 600;
+  color: #000000;
+}
+
+.video-view {
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 500;
+  color: #475569;
+}
+
+.click {
+  color: #2563eb !important;
+}
+
+.clicked {
+  color: #64748b;
+}
+
+.video-published {
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 500;
+  color: #475569;
+  margin: 12px;
+}
+
+.channel-name {
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 500;
+  color: #000000;
+  margin: 12px;
+}
+
+.subscribers {
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 400;
+  color: #475569;
+  margin: 12px;
+}
+
+.video-description {
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 500;
+  color: #000000;
+  margin: 12px;
+}
+
+.text-dark {
+  color: #ffffff;
+}
+
+.text-light {
+  color: #000000;
+}
+
+.video-bg-dark {
+  background-color: #ffffff;
+}
+
+.video-bg-light {
+  background-color: #000000;
+}

@@ -1,0 +1,59 @@
+.item-container {
+  list-style-type: none;
+  width: 301px;
+  margin: 12px;
+}
+
+.thumbnail-image {
+  width: 300px;
+  height: 150px;
+  border-radius: 4px;
+}
+
+.details-container {
+  display: flex;
+  align-items: flex-start;
+}
+
+.profile-image {
+  height: 40px;
+  width: 40px;
+  margin-right: 8px;
+}
+
+.video-title {
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 14px;
+  color: #000000;
+}
+
+.channel-name {
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 14px;
+  color: #475569;
+  margin-bottom: 0px;
+}
+
+.view-count {
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 12px;
+  color: #475569;
+}
+
+.published {
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 12px;
+  color: #475569;
+  margin-left: 12px;
+}
+
+.published-container {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  margin: 0px;
+}

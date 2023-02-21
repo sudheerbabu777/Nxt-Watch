@@ -1,0 +1,102 @@
+.trending-container {
+  display: flex;
+  align-items: flex-start;
+}
+
+.tending-video-container {
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  height: 90vh;
+  overflow-y: auto;
+}
+
+.trend-thumbnail {
+  width: 450px;
+  height: 250px;
+  border-radius: 4px;
+}
+
+.fire {
+  display: flex;
+  align-items: center;
+  background-color: #1e293b;
+  padding-left: 50px;
+  border-radius: 4px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.fire-container {
+  height: 60px;
+  width: 60px;
+  background-color: #000000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 40px;
+  margin-right: 12px;
+}
+
+.trending {
+  font-weight: 600;
+  font-size: 34px;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+
+.trend-item-container {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 60px;
+  margin-top: 60px;
+  width: 75vw;
+}
+
+.trend-details-container {
+  margin-left: 8px;
+}
+
+.trend-title {
+  font-weight: 600;
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #000000;
+}
+
+.trend-view {
+  font-weight: 500;
+  font-size: 14px;
+  font-family: 'Roboto';
+  color: #64748b;
+}
+
+.trend-published {
+  font-weight: 500;
+  font-size: 14px;
+  font-family: 'Roboto';
+  color: #64748b;
+  margin-left: 12px;
+}
+
+.loader {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.trend-bg-dark {
+  background-color: #0f0f0f;
+}
+
+.trend-bg-light {
+  background-color: #c4bfbff0;
+}
+
+.text-dark {
+  color: #ffffff;
+}
+
+.text-light {
+  color: #000000;
+}
